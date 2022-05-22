@@ -6,7 +6,8 @@
     <li>❤️ I love Linux.</li>
     <li>⚡ I'm currently working on improving my DSA skills to get a job.</li>
     <li>🔭 I'm currently learning Bootstrap and MERN stack.</li>
-    <li>👩‍💻 I love to make Desktop Applications in Python and CPP</li>
+    <li>👩‍💻 I love to make Desktop Applications in Python.</li>
+    <li>⏱️ I do competitive programming in C++.</li>
     <li>💻 I'm looking to collaborate on Open Source projects.</li>
     <li>📫 How to reach me: DM me on Linkedin or drop an email at <b>sensoubhik2001@gmail.com</b>
     </li>
