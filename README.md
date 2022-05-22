@@ -28,7 +28,7 @@
       src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"
       alt=""></a>
 
-  <h4 align="left">👩‍💻 Social Profiles:</h4>
+  <h4>👩‍💻 Social Profiles:</h4>
 
   <a href="https://stackoverflow.com/users/16060804/sushruta19" target="_blank"><img
       src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
@@ -56,15 +56,16 @@
   <img
     src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whi"
     alt="visual studio code">&nbsp;
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="">
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="bash">
   &nbsp;
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
 
   <h4>💻 OS I am familiar with:</h4>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows">
   
- ![Soubhik Sen's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushruta19&show_icons=true&theme=dark)<br>
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sushruta19&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
-
-  
+ ![Soubhik Sen's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushruta19&count_private=true&show_icons=true&theme=dark)
+ <br><br>
+ ![Soubhik Sen's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sushruta19&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+ <br><br>
+ ![Top Langs Used](https://github-readme-stats.vercel.app/api/top-langs/?username=sushruta19&layout=compact&theme=dark)
