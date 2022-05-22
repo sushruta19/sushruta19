@@ -1,6 +1,7 @@
 <h2 id="header" align="center">Hi 👋, I'm Soubhik Sen</h2>
   <h3 align="center">A budding Software Developer from India</h3>
   <h6 align="center">Undergrad at Jalpaiguri Government Engineering College CSE '23</h6>
+  <div align="center"><img src="https://komarev.com/ghpvc/?username=sushruta19&style=plastic"></div>
   <ul>
     <li>❤️ I love Linux.</li>
     <li>⚡ I'm currently working on improving my DSA skills to get a job.</li>
@@ -57,15 +58,13 @@
     src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whi"
     alt="visual studio code">&nbsp;
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="bash">
-  &nbsp;
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
+  &nbsp;<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
 
   <h4>💻 OS I am familiar with:</h4>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows">
   
- ![Soubhik Sen's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushruta19&count_private=true&show_icons=true&theme=dark)
- <br><br>
- ![Soubhik Sen's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sushruta19&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
- <br><br>
- ![Top Langs Used](https://github-readme-stats.vercel.app/api/top-langs/?username=sushruta19&layout=compact&theme=dark)
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=sushruta19&count_private=true&show_icons=true&theme=dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sushruta19&theme=dark&date_format=M%20j%5B%2C%20Y%5D">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushruta19&layout=compact&theme=dark">
+ 
