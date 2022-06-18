@@ -33,7 +33,7 @@
       src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
       alt="stackoverflow profile sushruta19">
   </a>
-  <a href="#" target="_blank"><img
+  <a href="https://www.linkedin.com/in/soubhik-sen-62a834241/" target="_blank"><img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="linkedin"></a>
   <details>
