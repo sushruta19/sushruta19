@@ -15,9 +15,9 @@
 
   <h4>💻 Coding Profiles:</h4>
 
-  <a href="" target="_blank" margin-right="3px"><img
+  <a href="https://leetcode.com/sushruta19/" target="_blank" margin-right="3px"><img
       src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt=""></a>
-  <a href="" target="_blank"><img
+  <a href="https://www.hackerrank.com/sushruta19?hr_r=1" target="_blank"><img
       src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
       alt=""></a>
   <a href="" target="_blank"><img
