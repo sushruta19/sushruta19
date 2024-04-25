@@ -1,15 +1,14 @@
 <h2 id="header" align="center">Hi 👋, I'm Soubhik Sen</h2>
 <h3 align="center">A budding Software Developer from India</h3>
-  <h6 align="center">Undergrad at Jalpaiguri Government Engineering College CSE '23</h6>
+  <h6 align="center">Graduate from Jalpaiguri Government Engineering College CSE '23</h6>
   <div align="center"><img src="https://komarev.com/ghpvc/?username=sushruta19&style=plastic"></div>
   <ul>
     <li>❤️ I love Linux.</li>
     <li>⚡ I'm currently working on improving my DSA skills to get a job.</li>
-    <li>🔭 I'm currently learning Bootstrap and MERN stack.</li>
-    <li>👩‍💻 I love to make Desktop Applications in Python.</li>
+    <li>🔭 I'm currently learning MERN stack.</li>
     <li>⏱️ I do competitive programming in C++.</li>
     <li>💻 I'm looking to collaborate on Open Source projects.</li>
-    <li>📫 How to reach me: DM me on Linkedin or drop an email at <b>sensoubhik2001@gmail.com</b>
+    <li>📫 How to reach me: DM me on  <a href="https://www.linkedin.com/in/soubhik-sen-62a834241/" target="_blank">Linkedin</a> or drop an email at <b>sensoubhik2001@gmail.com</b>
     </li>
   </ul>
 
