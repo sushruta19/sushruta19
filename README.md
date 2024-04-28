@@ -3,6 +3,7 @@
   <h6 align="center">Graduate from Jalpaiguri Government Engineering College CSE '23</h6>
   <div align="center"><img src="https://komarev.com/ghpvc/?username=sushruta19&style=plastic"></div>
   <ul>
+    <li>🌏 <a href="https://sushruta19.github.io/">My Portfolio Page</a></li>
     <li>❤️ I love Linux.</li>
     <li>⚡ I'm currently working on improving my DSA skills to get a job.</li>
     <li>🔭 I'm currently learning MERN stack.</li>
