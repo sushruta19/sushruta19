@@ -9,7 +9,7 @@
     <li>🔭 I'm currently learning MERN stack.</li>
     <li>⏱️ I do competitive programming in C++.</li>
     <li>💻 I'm looking to collaborate on Open Source projects.</li>
-    <li>📫 How to reach me: DM me on  <a href="https://www.linkedin.com/in/soubhik-sen-62a834241/" target="_blank">Linkedin</a> or drop an email at <b>sensoubhik2001@gmail.com</b>
+    <li>📫 How to reach me: Drop an email at <b>soubhik.present@gmail.com</b>
     </li>
   </ul>
 
