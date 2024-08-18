@@ -1,6 +1,6 @@
 <h2 id="header" align="center">Hi 👋, I'm Soubhik Sen</h2>
 <h3 align="center">A budding Software Developer from India</h3>
-  <h6 align="center">Graduate from Jalpaiguri Government Engineering College CSE '23</h6>
+  <h6 align="center">Graduate from Jalpaiguri Government Engineering College CSE </h6>
   <div align="center"><img src="https://komarev.com/ghpvc/?username=sushruta19&style=plastic"></div>
   <ul>
     <li>🌏 <a href="https://sushruta19.github.io/">My Portfolio Page</a></li>
