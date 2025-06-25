@@ -1,58 +1,35 @@
 <h2 id="header" align="center">Hi 👋, I'm Soubhik Sen</h2>
-<h3 align="center">A budding Software Developer from India</h3>
-  <h6 align="center">Graduate from Jalpaiguri Government Engineering College CSE </h6>
+  <h6 align="center">Pursuing MTech in Operations Research at NIT DGP </h6>
   <div align="center"><img src="https://komarev.com/ghpvc/?username=sushruta19&style=plastic"></div>
   <ul>
     <li>🌏 <a href="https://sushruta19.github.io/">My Portfolio Page</a></li>
-    <li>❤️ I love Linux.</li>
-    <li>⚡ I'm currently working on improving my DSA skills to get a job.</li>
-    <li>🔭 I'm currently learning MERN stack.</li>
-    <li>⏱️ I do competitive programming in C++.</li>
     <li>💻 I'm looking to collaborate on Open Source projects.</li>
-    <li>📫 How to reach me: Drop an email at <b>soubhik.present@gmail.com</b>
+    <li>📫 How to reach me: Drop an email at <b><a href="mailto:ss.24p10223@nitdgp.ac.in">ss.24p10223@nitdgp.ac.in</a>
+</b>
     </li>
   </ul>
 
   <h4>💻 Coding Profiles:</h4>
 
-  <a href="https://leetcode.com/sushruta19/" target="_blank" margin-right="3px"><img
-      src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt=""></a>
-  <a href="https://www.hackerrank.com/sushruta19?hr_r=1" target="_blank"><img
-      src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
-      alt=""></a>
-  <a href="" target="_blank"><img
-      src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"
-      alt=""></a>
-  <a href="" target="_blank"><img
-      src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"
-      alt=""></a>
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/sushruta19/)
+  
   <h4>👩‍💻 Social Profiles:</h4>
 
-  <a href="https://stackoverflow.com/users/16060804/sushruta19" target="_blank"><img
-      src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
-      alt="stackoverflow profile sushruta19">
-  </a>
-  <a href="https://www.linkedin.com/in/soubhik-sen-62a834241/" target="_blank"><img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="linkedin"></a>
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16060804/sushruta19?tab=profile) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/soubhik-sen-sushruta19/)
   
-  <h4>🛠 Languages and Tools:</h4>
+  <h4>🛠 Languages:</h4>
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-    alt="javascript">  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
-    alt="CPP">  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"
-    alt="python">  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
-    alt="bootstrap">  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c">
-  <img
-    src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whi"
-    alt="visual studio code">  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="bash"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
-    
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+
+  <h4>🛠 Libraries & Frameworks:</h4>
+
+  [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#) [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) [![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=40x40)](#) [![Scrapy](https://raw.githubusercontent.com/scrapy/scrapy/master/docs/_static/logo.svg)](#)
+  
   <h4>💻 OS I am familiar with:</h4>
 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows">
+  [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
+  
   <img src="https://github-readme-stats.vercel.app/api?username=sushruta19&count_private=true&show_icons=true&theme=dark">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sushruta19&theme=dark&date_format=M%20j%5B%2C%20Y%5D">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushruta19&count_private=true&layout=compact&theme=dark">
